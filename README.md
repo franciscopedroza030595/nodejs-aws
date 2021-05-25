@@ -7,6 +7,8 @@ clone the repository, run
 npm install
 ```
 
+in the file .env you use the private aws key for Dynamodb
+
 in the browser localhost8080
 
 portafolio with some user informacion,  data loaded from aws Dynamodb, you can update some of the data pushing the "edit" buttom
