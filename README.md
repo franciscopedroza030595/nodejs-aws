@@ -7,7 +7,7 @@ clone the repository, run
 npm install
 ```
 
-in the file .env you use the private aws key for Dynamodb
+in the file .env you have to use your private aws key for Dynamodb
 
 in the browser localhost8080
 
